@@ -1,0 +1,9 @@
+写了四个版本的pagerank程序：
+pagerank_1.py是实现Google版本的PageRank的程序
+pagerank_2.py利用表格存储稀疏矩阵
+pagerank_3.py使用了Block-based方法在构建稀疏矩阵的过程中进行了改进
+pagerank_4.py使用了使用Block-Stripe算法
+
+Wiki-Vote.txt是从SNAP网站下载的一个有向图数据集，有77360个节点和905468条边
+
+result.txt文件存放的是程序的运行结果
